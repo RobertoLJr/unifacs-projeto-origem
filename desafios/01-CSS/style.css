@@ -1,0 +1,16 @@
+body {
+  background: #f0f0f0;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+a:hover {
+  color: crimson;
+}
